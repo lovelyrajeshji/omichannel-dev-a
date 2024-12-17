@@ -17,6 +17,7 @@ public class MedOrder_Item {
 		medorder.setMesseage("dolo 650");
 		medorder.setOrderDate("22-2-23");
 		medorder.setDeliveryDate("23-3-45");
+                //added new space to the med
 		medorder.setTotal(1);
 
         m1.saveMedOrder( medorder);
